@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/jecinta/Documents/News-highlights/virtual"
+set -gx VIRTUAL_ENV "/home/jecinta/Desktop/flask-movie-app/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

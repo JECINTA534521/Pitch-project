@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/jecinta/Documents/News-highlights/virtual"
+VIRTUAL_ENV="/home/jecinta/Desktop/flask-movie-app/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
