@@ -16,6 +16,8 @@ The program lets a user publish a pitch
 * Example input: Create a pitch
 * Example output: Redirects user to form to create a pitch
 
+## The live site:https://pitch-project-app.herokuapp.com/
+
 ## Technologies used
 * Python
 * Pip
